@@ -38,7 +38,7 @@ Check out our **[discussions board](https://github.com/loophole-ai/loophole/disc
 2. **[Join the discussion](https://github.com/loophole-ai/loophole/discussions)** to ask questions and share feedback.
 3. **[Open an issue](https://github.com/loophole-ai/loophole/issues/new/choose)** for bugs or feature requests.
 
-For anything else, reach out at **hello@loophole.ai**
+For anything else, reach out at **hi@loopholeeditor.in**
 
 ## Community Guidelines
 
